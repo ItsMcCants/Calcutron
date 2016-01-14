@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B7AF9EE2D79BF0C8F0E2BFECD58F14CBD6C69598",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1A22AAE74435B3CA3B6C83C81BA851F7CF9C57F5" : 0,
+    "B7AF9EE2D79BF0C8F0E2BFECD58F14CBD6C69598" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "430DC92B-2C79-4B97-88ED-121016D20663",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1A22AAE74435B3CA3B6C83C81BA851F7CF9C57F5" : "",
+    "B7AF9EE2D79BF0C8F0E2BFECD58F14CBD6C69598" : "Calcutron\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Calcutron",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Calcutron.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:j-n4m4573\/mobile_makers1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1A22AAE74435B3CA3B6C83C81BA851F7CF9C57F5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ItsMcCants\/Calcutron.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B7AF9EE2D79BF0C8F0E2BFECD58F14CBD6C69598"
+    }
+  ]
+}

@@ -18,6 +18,8 @@
 
 @implementation ViewController
 - (IBAction)mathButton:(id)sender {
+    double oppOne = [self.opperandOne.text doubleValue];
+    double oppTwo = [self.opperandTwo.text doubleValue];
 }
 - (IBAction)hideKeyboard:(UIButton *)sender {
 }
