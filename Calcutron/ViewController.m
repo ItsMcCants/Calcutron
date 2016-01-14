@@ -9,10 +9,18 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+@property (weak, nonatomic) IBOutlet UILabel *opperandLabel;
+@property (weak, nonatomic) IBOutlet UITextField *opperandOne;
+@property (weak, nonatomic) IBOutlet UITextField *opperandTwo;
+@property (weak, nonatomic) IBOutlet UILabel *answerLabel;
 
 @end
 
 @implementation ViewController
+- (IBAction)mathButton:(id)sender {
+}
+- (IBAction)hideKeyboard:(UIButton *)sender {
+}
 
 - (void)viewDidLoad {
     [super viewDidLoad];
